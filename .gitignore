@@ -1,0 +1,28 @@
+# Environments
+.env
+.venv/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Playwright / Playwright-Stealth sessions
+chrome_session/
+
+# Downloads
+downloads/
+
+# Debugging and Output Files
+debug_*.html
+out*.txt
+out.txt
+*.log
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
